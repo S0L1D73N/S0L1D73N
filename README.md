@@ -1,11 +1,13 @@
-Hi 👋 My name is Mohammed AbdulFattah
+Hi there 👋
 ============================================================================================================================================
 
-CyberSecurity Enthusiast
+<p align="left">My name is Mohammed Abdulfattah and I'm a CyberSecurity Enthusiast</p>
+
+Whoami
 ------------------------
 
-*   🌍  I'm based in Earth👽
-*   🧠  I'm learning Digital Forensics and Incident Response
+*   🌍  I'm based on Earth 👽
+*   🧠  Currently I am learning Digital Forensics and Incident Response.
 *   ⚡  .. / .- -- / -. --- - / .- -. / .- .-.. .. . -. .-.-.-
 
 ### Skills 
